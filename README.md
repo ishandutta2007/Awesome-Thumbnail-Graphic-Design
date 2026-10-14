@@ -91,103 +91,103 @@ Open-source design software guarantees full data privacy, allows offline operati
 
 > *Sorted descending by GitHub stargazer count. Badges link directly to each repository's stargazers page.*
 
-1. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) `AGPL-3.0`  
+1. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** [![GitHub_Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) `AGPL-3.0`  
    The definitive browser interface for Stable Diffusion. Extensively used by creators to synthesize custom thumbnail backgrounds, character renders, and surreal visual compositions via ControlNet and inpainting.
 
-2. **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) `GPL-3.0`  
+2. **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [![GitHub_Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) `GPL-3.0`  
    Node-based, modular Stable Diffusion and Flux execution engine. Allows creators and developers to build programmatic, reproducible pipelines for generating high-resolution thumbnails, visual effects, and face swaps.
 
-3. **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) `MIT`  
+3. **[excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) `MIT`  
    Virtual whiteboard with a signature hand-drawn style. Perfect for educational YouTube thumbnails, system architecture diagrams, tech tutorials, and sketch annotations.
 
-4. **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) `Custom/Commercial`  
+4. **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) `Custom/Commercial`  
    Create videos and render dynamic, pixel-perfect thumbnails programmatically using React, HTML, CSS, and WebGL. Ideal for automated YouTube thumbnail generators and social preview workflows.
 
-5. **[penpot/penpot](https://github.com/penpot/penpot)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers) `MPL-2.0`  
+5. **[penpot/penpot](https://github.com/penpot/penpot)** [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers) `MPL-2.0`  
    Open-source web-based design and prototyping suite positioned as the primary self-hosted alternative to Figma. Features SVG-native canvas, CSS grid/flexbox layout, components, and real-time multiplayer editing.
 
-6. **[tldraw/tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) `Custom/Apache-2.0`  
+6. **[tldraw/tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) `Custom/Apache-2.0`  
    Collaborative digital canvas and drawing library built with React. Excellent for annotating graphics, constructing flow diagrams, and generating custom thumbnail illustrations.
 
-7. **[upscayl/upscayl](https://github.com/upscayl/upscayl)** [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers) `AGPL-3.0`  
+7. **[upscayl/upscayl](https://github.com/upscayl/upscayl)** [![GitHub_Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers) `AGPL-3.0`  
    Free and open-source AI image upscaler for desktop (Linux, macOS, Windows). Upscales low-resolution stock images and webcam stills into crisp, 4K-ready assets for thumbnail composition using Vulkan and Real-ESRGAN.
 
-8. **[mifi/lossless-cut](https://github.com/mifi/lossless-cut)** [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers) `GPL-2.0`  
+8. **[mifi/lossless-cut](https://github.com/mifi/lossless-cut)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers) `GPL-2.0`  
    Lossless video and media trimmer. Used by video editors and YouTube creators to extract full-resolution, uncompressed video frames instantly at exact timestamps for thumbnail creation.
 
-9. **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers) `BSD-3-Clause`  
+9. **[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers) `BSD-3-Clause`  
    Practical restoration algorithm for general images and digital artwork. Serves as the core AI engine powering many commercial and self-hosted image upscaling utilities.
 
-10. **[carbon-app/carbon](https://github.com/carbon-app/carbon)** [![GitHub stars](https://img.shields.io/github/stars/carbon-app/carbon?style=social&color=white)](https://github.com/carbon-app/carbon/stargazers) `MIT`  
+10. **[carbon-app/carbon](https://github.com/carbon-app/carbon)** [![GitHub_Stars](https://img.shields.io/github/stars/carbon-app/carbon?style=social&color=white)](https://github.com/carbon-app/carbon/stargazers) `MIT`  
     Create and share beautiful images and syntax-highlighted snippets of your source code. Widely employed across developer YouTube channels, tech tutorials, and blog post thumbnails.
 
-11. **[lovell/sharp](https://github.com/lovell/sharp)** [![GitHub stars](https://img.shields.io/github/stars/lovell/sharp?style=social&color=white)](https://github.com/lovell/sharp/stargazers) `Apache-2.0`  
+11. **[lovell/sharp](https://github.com/lovell/sharp)** [![GitHub_Stars](https://img.shields.io/github/stars/lovell/sharp?style=social&color=white)](https://github.com/lovell/sharp/stargazers) `Apache-2.0`  
     High-performance Node.js image processing library powered by libvips. Standard choice for server-side thumbnail generation, fast resizing, cropping, watermarking, and format conversion.
 
-12. **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** [![GitHub stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&color=white)](https://github.com/fabricjs/fabric.js/stargazers) `MIT`  
+12. **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)** [![GitHub_Stars](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&color=white)](https://github.com/fabricjs/fabric.js/stargazers) `MIT`  
     Powerful HTML5 canvas library providing an interactive object model, SVG-to-canvas parser, text styling, and layer transformations. The foundational engine behind numerous web-based thumbnail makers.
 
-13. **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** [![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers) `Apache-2.0`  
+13. **[GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)** [![GitHub_Stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers) `Apache-2.0`  
     Modern 2D raster and vector graphics editor built with Rust and WebGPU. Features a non-destructive node-based procedural composition system designed for high-efficiency design workflows.
 
-14. **[GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)** [![GitHub stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=social&color=white)](https://github.com/GoogleChromeLabs/squoosh/stargazers) `Apache-2.0`  
+14. **[GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)** [![GitHub_Stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=social&color=white)](https://github.com/GoogleChromeLabs/squoosh/stargazers) `Apache-2.0`  
     Browser and CLI image compression web app by Google Chrome Labs. Optimizes thumbnail file size to WebP, AVIF, and MozJPEG without perceptible quality degradation for ultra-fast web loading.
 
-15. **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** [![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers) `Apache-2.0`  
+15. **[Sanster/IOPaint](https://github.com/Sanster/IOPaint)** [![GitHub_Stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers) `Apache-2.0`  
     Image inpainting and object removal suite powered by state-of-the-art AI models (LaMa, MAT, Stable Diffusion). Cleanly removes unwanted objects, tourists, or watermarks from thumbnail photo assets.
 
-16. **[blender/blender](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) `GPL-3.0`  
+16. **[blender/blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) `GPL-3.0`  
     Professional 3D creation suite featuring modeling, sculpting, lighting, Grease Pencil 2D animation, and node compositing. Ideal for rendering striking 3D typography and cinematic characters for 3D thumbnails.
 
-17. **[ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick)** [![GitHub stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers) `Apache-2.0`  
+17. **[ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick)** [![GitHub_Stars](https://img.shields.io/github/stars/ImageMagick/ImageMagick?style=social&color=white)](https://github.com/ImageMagick/ImageMagick/stargazers) `Apache-2.0`  
     Battle-tested CLI and library for automated image manipulation, compositing text onto backgrounds, converting color profiles, and generating bulk thumbnails in CI/CD and shell pipelines.
 
-18. **[konvajs/konva](https://github.com/konvajs/konva)** [![GitHub stars](https://img.shields.io/github/stars/konvajs/konva?style=social&color=white)](https://github.com/konvajs/konva/stargazers) `MIT`  
+18. **[konvajs/konva](https://github.com/konvajs/konva)** [![GitHub_Stars](https://img.shields.io/github/stars/konvajs/konva?style=social&color=white)](https://github.com/konvajs/konva/stargazers) `MIT`  
     2D HTML5 canvas JavaScript framework with high-performance desktop and mobile support. Provides layer management, shape animations, drag-and-drop, and filters for custom web design editors.
 
-19. **[darktable-org/darktable](https://github.com/darktable-org/darktable)** [![GitHub stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers) `GPL-3.0`  
+19. **[darktable-org/darktable](https://github.com/darktable-org/darktable)** [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers) `GPL-3.0`  
     Open-source photography workflow application and non-destructive RAW developer. Essential for color grading creator portraits, contrast adjustment, and camera RAW processing prior to thumbnail layout.
 
-20. **[KDE/krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) `GPL-3.0`  
+20. **[KDE/krita](https://github.com/KDE/krita)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) `GPL-3.0`  
     Professional digital painting and illustration studio. Features advanced brush engines, vector text tools, wrap-around modes, and layer management for custom digital art and painted thumbnail elements.
 
-21. **[Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** [![GitHub stars](https://img.shields.io/github/stars/Orama-Interactive/Pixelorama?style=social&color=white)](https://github.com/Orama-Interactive/Pixelorama/stargazers) `MIT`  
+21. **[Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** [![GitHub_Stars](https://img.shields.io/github/stars/Orama-Interactive/Pixelorama?style=social&color=white)](https://github.com/Orama-Interactive/Pixelorama/stargazers) `MIT`  
     Free and open-source 2D sprite editor and pixel art suite built with Godot. Perfect for retro-gaming YouTube thumbnails, pixel lettering, and stylized sprite illustrations.
 
-22. **[opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)** [![GitHub stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers) `BSD-3-Clause`  
+22. **[opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)** [![GitHub_Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=social&color=white)](https://github.com/opentoonz/opentoonz/stargazers) `BSD-3-Clause`  
     Full-featured 2D animation software used by Studio Ghibli. Capable of vector and raster drawing, compositing, and rendering animated thumbnail assets.
 
-23. **[visioncortex/vtracer](https://github.com/visioncortex/vtracer)** [![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers) `MIT`  
+23. **[visioncortex/vtracer](https://github.com/visioncortex/vtracer)** [![GitHub_Stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers) `MIT`  
     High-speed raster-to-vector image converter written in Rust. Converts bitmap logos, photos, and sketches into scalable SVG graphics for crisp thumbnail typography and vector badges.
 
-24. **[GNOME/gimp](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) `GPL-3.0`  
+24. **[GNOME/gimp](https://github.com/GNOME/gimp)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) `GPL-3.0`  
     GNU Image Manipulation Program — the veteran open-source raster image editor. Delivers full photo retouching, multi-layer compositing, masks, color correction, and plugin extensibility.
 
-25. **[NatronGitHub/Natron](https://github.com/NatronGitHub/Natron)** [![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers) `GPL-2.0`  
+25. **[NatronGitHub/Natron](https://github.com/NatronGitHub/Natron)** [![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers) `GPL-2.0`  
     Node-based digital compositor for visual effects and motion graphics. Useful for complex multi-pass rendering, keying green screens, and cinematic thumbnail backgrounds.
 
-26. **[RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee)** [![GitHub stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers) `GPL-3.0`  
+26. **[RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee)** [![GitHub_Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers) `GPL-3.0`  
     Cross-platform RAW photo processing software utilizing a 96-bit floating-point processing engine for non-destructive color tuning and exposure correction.
 
-27. **[PintaProject/Pinta](https://github.com/PintaProject/Pinta)** [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers) `MIT`  
+27. **[PintaProject/Pinta](https://github.com/PintaProject/Pinta)** [![GitHub_Stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers) `MIT`  
     Lightweight, easy-to-use drawing and photo editing program modeled after Paint.NET. Ideal for fast crop, annotation, arrow overlays, and basic thumbnail creation.
 
-28. **[vercel/og-image](https://github.com/vercel/og-image)** [![GitHub stars](https://img.shields.io/github/stars/vercel/og-image?style=social&color=white)](https://github.com/vercel/og-image/stargazers) `MIT`  
+28. **[vercel/og-image](https://github.com/vercel/og-image)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel/og-image?style=social&color=white)](https://github.com/vercel/og-image/stargazers) `MIT`  
     Open Graph social card and dynamic thumbnail generation service utilizing serverless functions and Puppeteer/HTML rendering.
 
-29. **[inkscape/inkscape](https://github.com/inkscape/inkscape)** [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers) `GPL-2.0`  
+29. **[inkscape/inkscape](https://github.com/inkscape/inkscape)** [![GitHub_Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers) `GPL-2.0`  
     The premier open-source vector graphics editor. Native SVG support, bezier path editing, text-on-path, gradient meshes, and extensive extension ecosystem for logos, badges, and vector thumbnails.
 
-30. **[Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)** [![GitHub stars](https://img.shields.io/github/stars/Figma-Linux/figma-linux?style=social&color=white)](https://github.com/Figma-Linux/figma-linux/stargazers) `GPL-2.0`  
+30. **[Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)** [![GitHub_Stars](https://img.shields.io/github/stars/Figma-Linux/figma-linux?style=social&color=white)](https://github.com/Figma-Linux/figma-linux/stargazers) `GPL-2.0`  
     Electron-based desktop application for Figma running natively on Linux distributions with local font support and system tray integration.
 
-31. **[tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** [![GitHub stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers) `BSD-3-Clause`  
+31. **[tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** [![GitHub_Stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers) `BSD-3-Clause`  
     Portable, zero-install photo editor for Windows. Runs completely standalone from a USB drive with comprehensive layer support, curves, content-aware sizing, and batch processing.
 
-32. **[raycast/ray-so](https://github.com/raycast/ray-so)** [![GitHub stars](https://img.shields.io/github/stars/raycast/ray-so?style=social&color=white)](https://github.com/raycast/ray-so/stargazers) `MIT`  
+32. **[raycast/ray-so](https://github.com/raycast/ray-so)** [![GitHub_Stars](https://img.shields.io/github/stars/raycast/ray-so?style=social&color=white)](https://github.com/raycast/ray-so/stargazers) `MIT`  
     Open-source web application for generating stylish syntax-highlighted code snippets with customizable backgrounds and window frames for technical content covers.
 
-33. **[synfig/synfig](https://github.com/synfig/synfig)** [![GitHub stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers) `GPL-3.0`  
+33. **[synfig/synfig](https://github.com/synfig/synfig)** [![GitHub_Stars](https://img.shields.io/github/stars/synfig/synfig?style=social&color=white)](https://github.com/synfig/synfig/stargazers) `GPL-3.0`  
     Industrial-strength 2D vector animation studio. Allows timeline tweening, morphing vector layers, and rendering expressive graphic elements.
 
 ---
@@ -224,7 +224,7 @@ Contributions are warmly welcomed! Help expand this directory by suggesting top-
 3. 📝 **Add your entry** under the appropriate section following the established format:
    - Include platform/project name, official URL or GitHub link.
    - For SaaS: add exact starting tier pricing, free tier/trial limits, and company size.
-   - For Open-Source: add GitHub star badge `[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)` and SPDX license tag.
+   - For Open-Source: add GitHub Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)` and SPDX license tag.
 4. 📬 **Submit a Pull Request** with a concise summary of the addition.
 
 ---
