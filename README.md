@@ -1,6 +1,6 @@
 # Awesome-Thumbnail-Graphic-Design
 
-# Top Thumbnail & Graphic Design Tools Ecosystem
+## Top Thumbnail & Graphic Design Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Visual Content Creation, Template Editing & Thumbnail Optimization*  
